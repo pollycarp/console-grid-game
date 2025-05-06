@@ -52,7 +52,7 @@ console-grid-gamebmission/
 
 ## Author & Contact
 
-**Name:** Polycarp Kingori  
+**Name:** Mark Polycarp  
 **Email:** markpollycarp@gmail.com  
 **Phone/Whatsapp:** +44 7429 144739  
 
